@@ -1,4 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lana ============================================================================================================================  Game designer -------------  I've been learning to code 2 years, after switching careers. I started from Python, SQL and ML, but have really found a passion for game design.  * 🌍  I'm based in Buenos Aires * ✉️  You can contact me at [svetadozhd@gmail.com](mailto:svetadozhd@gmail.com) * 🚀  I'm currently working on [MegaMod](http://games.megamod.io/) * 🧠  I'm learning Blender, Unity, Godot * 🤝  I'm open to collaborating on unity projects, level design, narrative design, backend * ⚡  I speak English, Spanish, Russian
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lana ============================================================================================================================  
+Game designer -------------  
+I've been learning to code 2 years, after switching careers. I started from Python, SQL and ML, but have really found a passion for game design.  
+
+* 🌍  I'm based in Buenos Aires
+*  ✉️  You can contact me at [svetadozhd@gmail.com](mailto:svetadozhd@gmail.com)
+*  🚀  I'm currently working on [MegaMod](http://games.megamod.io/)
+*  🧠  I'm learning Blender, Unity, Godot
+*  🤝  I'm open to collaborating on unity projects, level design, narrative design, backend
+* ⚡  I speak English, Spanish, Russian
 
 ### Skills  
 
