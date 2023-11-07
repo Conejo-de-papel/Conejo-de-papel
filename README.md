@@ -10,7 +10,7 @@ Then I recorded my screen to gif on Mac with Quicktime  and save result to my Gi
 I converted MOV to GIF on free online app, choose your free app via google.
 -->
 
-I've been learning to code 2 years, for switching careers. I started from Python, SQL and ML, I've got Masters degree in Data Science & ML, but have really found a passion for game design.
+I've been learning to code 2 years for switching careers. I started from Python, SQL and ML, I've got Masters degree in Data Science & ML, but have really found a passion for game design.
 
 * 🌍  I'm based in Buenos Aires, Argentina
 *  ✉️  You can contact me at [svetadozhd@gmail.com](mailto:svetadozhd@gmail.com)
