@@ -16,7 +16,7 @@ I've been learning to code 2 years for switching careers. I started from Python,
 *  ✉️  You can contact me at [svetadozhd@gmail.com](mailto:svetadozhd@gmail.com)
 *  🚀  I'm currently working as C# dev in UwU Novels
 *  🧠  I'm learning Blender, UE5, C++
-*  🤝  I'm open to collaborating on unity projects, level design, narrative design, backend
+*  🤝  I'm open to collaborating on unity projects, JS | Python projects
 * ⚡  I speak English, Spanish, Russian
 
 ### Skills  
